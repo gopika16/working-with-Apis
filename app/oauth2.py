@@ -6,7 +6,7 @@ from fastapi.security import OAuth2PasswordBearer
 from sqlalchemy.orm import Session
 from app import models, schemas,database
 
-# SECRET KEY
+# SECRET KE
 # ALGO HS256
 # EXPIRATION TIME
 
