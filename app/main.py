@@ -27,4 +27,4 @@ app.include_router(vote.router)
 # route or path operation
 @app.get("/")
 async def root():
-    return {"message": "HEYYYY WELCOMEEE TO MY API"}
+    return {"Gopika": "HEYYYY WELCOMEEE TO MY API"}
